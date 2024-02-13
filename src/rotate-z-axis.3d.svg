@@ -1,0 +1,7 @@
+<svg focusable="false" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Icon" viewBox="0 0 14 14">
+  <g stroke="currentColor">
+    <path d="M6.5 7a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"/>
+    <path d="M13.5 7A6.5 6.5 0 0 0 1.232 4m11.721 5.615a6.508 6.508 0 0 1-1.168 1.785M7 13.5a6.48 6.48 0 0 0 2.63-.554m-5.26 0a6.509 6.509 0 0 1-1.758-1.15M.674 8.5c.091.386.217.76.374 1.115" stroke-linecap="round"/>
+    <path d="M.5 2v2.5H3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

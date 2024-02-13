@@ -1,0 +1,12 @@
+<svg focusable="false" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Icon" viewBox="0 0 14 14">
+  <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#target-no-arrow_marketing_svggex-a)">
+    <path d="M.786 7a6.214 6.214 0 1 0 12.428 0A6.214 6.214 0 1 0 .786 7"/>
+    <path d="M2.91 7a4.09 4.09 0 1 0 8.18 0 4.09 4.09 0 1 0-8.18 0"/>
+    <path d="M5.348 7a1.652 1.652 0 1 0 3.304 0 1.652 1.652 0 1 0-3.304 0"/>
+  </g>
+  <defs>
+    <clipPath id="target-no-arrow_marketing_svggex-a">
+      <path d="M0 0h14v14H0z" fill="currentColor"/>
+    </clipPath>
+  </defs>
+</svg>
