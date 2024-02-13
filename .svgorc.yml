@@ -1,0 +1,14 @@
+---
+datauri: unenc
+floatPrecision: 4
+js2svg:
+  indent: 2
+  pretty: true
+multipass: true
+plugins:
+  - preset-default
+  - name: removeUnknownsAndDefaults
+    params:
+      unknownAttrs: false
+      keepRoleAttr: true
+recursive: true

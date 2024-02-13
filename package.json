@@ -1,0 +1,21 @@
+{
+	"private": true,
+	"scripts": {
+		"lint": "svgo -f \"src\" -o \"dist\" -c \".svgorc.yml\""
+	},
+	"devDependencies": {
+		"svgo": "^3.2.x"
+	},
+	"bugs": {
+		"url": "https://github.com/darcher-figo/gexicons/issues",
+		"email": "helpdesk@ipgpet.com"
+	},
+	"type": "module",
+	"name": "gexicons",
+	"version": "0.2.8",
+	"packageManager": "npm@10.4.0",
+	"repository": "github:darcher-figo/gexicons",
+	"browserslist": "defaults and maintained node versions",
+	"description": "GexUI Core Line Icons (by Streamline)",
+	"author": "Archer, Dylan R. <darcher@insurefigo.com>"
+}

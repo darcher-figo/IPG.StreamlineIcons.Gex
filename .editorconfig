@@ -1,0 +1,30 @@
+root = false
+
+[*]
+end_of_line = auto # equivalent to # * text eof=auto
+insert_final_newline = unset
+
+[*.{css,html,js,json,md,svg,yml}]
+charset = utf-8
+
+tab_width = 2
+indent_size = 2
+indent_style = unset
+
+end_of_line = lf
+max_line_length = unset
+trim_trailing_whitespace = unset
+
+insert_final_newline = false
+
+[*.{css,html,js,json,svg,yml}]
+trim_trailing_whitespace = true
+
+[*.{css,json}]
+indent_style = tab
+
+[*.{html,js,md,svg,yml}]
+indent_style = space
+
+[*.js]
+max_line_length = 72
