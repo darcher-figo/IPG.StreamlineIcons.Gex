@@ -63,8 +63,8 @@ The Streamline[^2] Core Line icon bundle[^2.1], acquired via the providers
 online store[^2.2], is licensed[^2.3] for usage under Creative Common's
 international non-commercial share-alike (version 4.0) attribution[^2.4].
 
-[^2]: <//streamlinehq.com>
-[^2.1]: <//streamlinehq.com/icons/core-line>
-[^2.2]: <//store.streamlinehq.com/products/core-line-3-302-icons>
-[^2.3]: <//help.streamlinehq.com/en/articles/6067458-one-time-purchase-license>
-[^2.4]: <//creativecommons.org/licenses/by-nc-sa/4.0>
+[^2]: <https://streamlinehq.com>
+[^2.1]: <https://streamlinehq.com/icons/core-line>
+[^2.2]: <https://store.streamlinehq.com/products/core-line-3-302-icons>
+[^2.3]: <https://help.streamlinehq.com/en/articles/6067458-one-time-purchase-license>
+[^2.4]: <https://creativecommons.org/licenses/by-nc-sa/4.0>
