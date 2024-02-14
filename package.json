@@ -1,9 +1,13 @@
 {
 	"private": true,
 	"scripts": {
-		"lint": "svgo -f \"src\" -o \"dist\" -c \".svgorc.yml\""
+		"build": "svgo -f \"src\" -o \"dist/v$npm_package_version/\" --config \"svgo.config.js\" -r --pretty",
+		"cleanup": "npm i --ddp --engine-strict && npm cache clean -f && npm cache verify && npm audit fix -f",
+		"cleanse": "rimraf \"node_modules\" \"dist\" \".temp\" && npm prune && npm run cleanup && npm doctor",
+		"setupUI": "npm run cleanse && npm ci --ddp --engine-strict && npm outdated && npm update --latest"
 	},
 	"devDependencies": {
+		"rimraf": "^5.0.5",
 		"svgo": "^3.2.x"
 	},
 	"bugs": {
@@ -12,7 +16,7 @@
 	},
 	"type": "module",
 	"name": "gexicons",
-	"version": "0.2.8",
+	"version": "0.3.1",
 	"packageManager": "npm@10.4.0",
 	"repository": "github:darcher-figo/gexicons",
 	"browserslist": "defaults and maintained node versions",

@@ -1,3 +1,5 @@
 <svg focusable="false" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Icon" viewBox="0 0 14 14">
-  <path d="M10.067 1.62a1 1 0 0 1 .977.789l1.975 9.13a1 1 0 0 1-.977 1.212H1.958a1 1 0 0 1-.977-1.212l1.975-9.13a1 1 0 0 1 .977-.789zm1.558 3.46H2.383m10.023 3.655H1.586M5.86 1.626l-1.5 11.125M8.14 1.626l1.5 11.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10.067 1.62a1 1 0 0 1 .977.789l1.975 9.13a1 1 0 0 1-.977 1.212H1.958a1 1 0 0 1-.977-1.212l1.975-9.13a1 1 0 0 1 .977-.789zm1.558 3.46H2.383m10.023 3.655H1.586M5.86 1.626l-1.5 11.125M8.14 1.626l1.5 11.125" />
+  </g>
 </svg>
