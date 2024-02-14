@@ -27,7 +27,7 @@ updates:
         update-types:
           - minor
           - patch
-        ignore:
-          dependency-name: npm
-          update-types:
-            - 'version-update:semver-major'
+    ignore:
+      dependency-name: npm
+      update-types:
+        - 'version-update:semver-major'
