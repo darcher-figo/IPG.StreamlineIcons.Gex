@@ -11,9 +11,7 @@ repository.
 
 ## Setup
 
-The npm dependencies are light, [package.json](./package.json) only includes
-`prettier` `markdownlint` and `svgo` in this project. That said,
-`is the minimum version,`
+The npm dependencies are light as you can see in [package.json](./package.json). Lets hop in and get you some Icon's!
 
 ### Getting started
 
