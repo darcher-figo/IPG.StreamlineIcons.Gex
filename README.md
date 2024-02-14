@@ -233,6 +233,6 @@ international non-commercial share-alike (version 4.0) attribution[^2.4].
 
 ### Visual of bundled Icons and compression rates:
 
-This is bundled to `dist/v0.3.2` (versioned in dist based on `package.json`'s `$npm_package_version` 
+This is bundled to `dist/v0.3.2` (versioned in dist based on `package.json`'s `$npm_package_version` and is a stupid simple staging ground for the massive amount of Icons we have in here so it doesn't destroy the other Repo.
 
 <img width="1833" alt="Screenshot 2024-02-13 at 21 46 44" src="https://github.com/darcher-figo/gexicons/assets/117687494/f3143605-ae90-4172-8010-113a88e1decc">
