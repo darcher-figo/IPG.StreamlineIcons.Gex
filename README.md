@@ -11,7 +11,8 @@ repository.
 
 ## Setup
 
-The npm dependencies are light as you can see in [package.json](./package.json). Lets hop in and get you some Icon's!
+The npm dependencies are light as you can see in [package.json](./package.json).
+Lets hop in and get you some Icon's!
 
 ### Getting started
 
@@ -66,5 +67,7 @@ international non-commercial share-alike (version 4.0) attribution[^2.4].
 [^2]: <https://streamlinehq.com>
 [^2.1]: <https://streamlinehq.com/icons/core-line>
 [^2.2]: <https://store.streamlinehq.com/products/core-line-3-302-icons>
-[^2.3]: <https://help.streamlinehq.com/en/articles/6067458-one-time-purchase-license>
+[^2.3]:
+    <https://help.streamlinehq.com/en/articles/6067458-one-time-purchase-license>
+
 [^2.4]: <https://creativecommons.org/licenses/by-nc-sa/4.0>
