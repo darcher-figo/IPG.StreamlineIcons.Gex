@@ -1,0 +1,32 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "16:00"
+    groups:
+      all-action:
+        patterns: ["*"]
+  - package-ecosystem: "npm"
+    directory: "/npm_and_yarn/helpers""
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "16:00"
+    groups:
+      npm-dependencies:
+        patterns:
+          - "npm"
+          - "svgo"
+          - "rimraf"
+      dev-dependencies:
+        dependency-type: "development"
+        update-types:
+          - "minor"
+          - "patch"
+        ignore:
+          dependency-name: "npm"
+          update-types: ["version-update:semver-major"]
+          
