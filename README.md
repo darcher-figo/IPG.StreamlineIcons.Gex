@@ -1,4 +1,4 @@
-# Icons
+# GexIcons
 
 This repository contains icons[^1.1] intended for use in the Gex Component
 Library[^1.2] per the Gex Design System[^1.3] housed in the GexUI[^1]
@@ -17,21 +17,21 @@ The npm dependencies are light as you can see in [package.json](./package.json).
 
 ```shell
 # clone repository locally...
-gh repo clone darcher-figo/iconLib && cd iconLib
+gh repo clone darcher-figo/gexicons && cd gexicons
 
 # align node version
 nvm use                 # ...or nvm install
 nvm install-latest-npm  # ...or npm i -g npm@latest
 
 # check versions
-node  --version  # e.g. 21.6.1
-npm   --version  # e.g. 10.4.0
+node  --version         # e.g. 21.6.1
+npm   --version         # e.g. 10.4.0
 
 # setup env
-npm run setupUI  # there's no UI yet... but checkout `./src` for icons.
+npm run setupUI         # there's no UI yet... but checkout `./src` for icons.
 
 # then...
-npm run build    # look in `./dist` for full optimized icons bundle.
+npm run build           # look in `./dist` for full optimized icons bundle.
 ```
 
 ## Categories
