@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Gex Icon bundle!
+    url: https://github.com/darcher-figo/gexicons
+    about: Just review what is here, issues and support will be provided later.
+  - name: GexUI Component Library!
+    url: https://github.com/petpartners/IPG.DesignSystems.Gex
+    about: This a suppose to be a support form, but for now, it is a proxy to GexUI.
